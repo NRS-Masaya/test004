@@ -1,3 +1,4 @@
+scene.setBackgroundColor(0)
 game.onUpdate(function () {
 	
 })

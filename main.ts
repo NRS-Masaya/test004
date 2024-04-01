@@ -3,5 +3,5 @@ game.onUpdate(function () {
 	
 })
 game.onUpdate(function () {
-	
+    scene.setBackgroundColor(0)
 })
